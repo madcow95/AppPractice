@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CD3A93A42A2398C800E78A66 /* MemoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD3A93A32A2398C800E78A66 /* MemoCell.swift */; };
 		CD7854BA2A1FA05B00DF9A7F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD7854B92A1FA05B00DF9A7F /* AppDelegate.swift */; };
 		CD7854BC2A1FA05B00DF9A7F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD7854BB2A1FA05B00DF9A7F /* SceneDelegate.swift */; };
 		CD7854BE2A1FA05B00DF9A7F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD7854BD2A1FA05B00DF9A7F /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		CD3A93A32A2398C800E78A66 /* MemoCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoCell.swift; sourceTree = "<group>"; };
 		CD7854B62A1FA05B00DF9A7F /* SimpleMemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SimpleMemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CD7854B92A1FA05B00DF9A7F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CD7854BB2A1FA05B00DF9A7F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				CD7854BB2A1FA05B00DF9A7F /* SceneDelegate.swift */,
 				CD7854BD2A1FA05B00DF9A7F /* ViewController.swift */,
 				CD7854BF2A1FA05B00DF9A7F /* Main.storyboard */,
+				CD3A93A32A2398C800E78A66 /* MemoCell.swift */,
 				CD7854C22A1FA05C00DF9A7F /* Assets.xcassets */,
 				CD7854C42A1FA05C00DF9A7F /* LaunchScreen.storyboard */,
 				CD7854C72A1FA05C00DF9A7F /* Info.plist */,
@@ -261,6 +264,7 @@
 				CD7854BE2A1FA05B00DF9A7F /* ViewController.swift in Sources */,
 				CD7854BA2A1FA05B00DF9A7F /* AppDelegate.swift in Sources */,
 				CD7854BC2A1FA05B00DF9A7F /* SceneDelegate.swift in Sources */,
+				CD3A93A42A2398C800E78A66 /* MemoCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
